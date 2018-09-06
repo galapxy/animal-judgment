@@ -1,4 +1,4 @@
-# Vermin_decision
+# Animal Judgment
 Flask app
 
 このアプリは写真からどのタイプの害獣かを判定して、その対処法を紹介するものです。
